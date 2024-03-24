@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   
@@ -6,7 +7,8 @@
   
 ##H2LinkedIn: [LinkedIn Profile](www.linkedin.com/in/brianna-welker-7b826b171M
 
-![Photo of Brianna Welker!](/finder/documents/Brianna Welker Image.jpeg/"Brianna Welker Image")
+![BW Image](https://github.com/bwelker2/bwelker2/assets/163481995/a09dc8c7-4115-4e45-af77-5711e3db33e9)
+
   <!--
  
   
